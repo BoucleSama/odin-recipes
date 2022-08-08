@@ -1,0 +1,12 @@
+
+#title {
+    background-color: yellowgreen;
+    font-size: large;
+text-align: center;
+}
+.lien {
+    text-align: center;
+    text-rendering: geometricPrecision;
+    text-align-last: center;
+ background-attachment: fixed;
+}
